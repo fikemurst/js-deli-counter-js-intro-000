@@ -16,9 +16,9 @@ function nowServing(katzDeli){
     }
 }
 
-function currentLine(katzDeliLine, name){
+function currentLine(katzDeli, name){
   let i = 0
-  while (i < katzDeliLine.length){
+  while (i < katzDeli.length){
     i++
   }
   if (katzDeliLine === 0){
