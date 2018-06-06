@@ -27,5 +27,4 @@ function currentLine(katzDeliLine, name){
     else {
       return (`The line is currently: ` ${katzDeliLine.length}". " ${name})
     }
-  }
 }
